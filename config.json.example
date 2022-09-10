@@ -1,7 +1,7 @@
 {
-  "TOKEN": "",
+  "TOKEN": "MTAxODI0NTgxMDE1ODMxMzQ5Mg.GQjrJi.AaK2XA57-XD__1uQIgKVS3gOeS9apDb8FDiuvM",
   "MAX_PLAYLIST_SIZE": 10,
-  "PREFIX": "!",
+  "PREFIX": "?",
   "PRUNING": false,
   "LOCALE": "en",
   "STAY_TIME": 30,
